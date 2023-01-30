@@ -184,13 +184,13 @@ MonoBehaviour:
   m_text: "\uD0A4\uB124\uC2DC\uC2A4"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 120aeac563d61644a98a8c079ea090e0, type: 2}
-  m_sharedMaterial: {fileID: 4734581362334661648, guid: 120aeac563d61644a98a8c079ea090e0, type: 2}
+  m_sharedMaterial: {fileID: -7915108852144221222, guid: 120aeac563d61644a98a8c079ea090e0, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 0
+    rgba: 4278190080
   m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
